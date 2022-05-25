@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2022-05-25T11:59:39.035Z",
+        "start_timestamp": "2022-05-25T12:05:16.824Z",
         "line": 10,
         "name": "Scenario 1 Of Test Feature",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1631000,
+              "duration": 1615000,
               "status": "passed"
             },
             "line": 5,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 34000,
+              "duration": 36000,
               "status": "passed"
             },
             "line": 6,
@@ -55,7 +55,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-05-25T11:59:39.088Z",
+        "start_timestamp": "2022-05-25T12:05:16.884Z",
         "line": 19,
         "name": "Scenario 2 Of Test Feature",
         "description": "",
@@ -65,7 +65,7 @@
         "steps": [
           {
             "result": {
-              "duration": 27000,
+              "duration": 29000,
               "status": "passed"
             },
             "line": 14,
@@ -77,7 +77,7 @@
           },
           {
             "result": {
-              "duration": 19000,
+              "duration": 20000,
               "status": "passed"
             },
             "line": 15,
@@ -107,7 +107,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-05-25T11:59:39.090Z",
+        "start_timestamp": "2022-05-25T12:05:16.887Z",
         "line": 28,
         "name": "Scenario 3 Of Test Feature",
         "description": "",
@@ -141,7 +141,7 @@
           },
           {
             "result": {
-              "duration": 18000,
+              "duration": 19000,
               "status": "passed"
             },
             "line": 25,
@@ -159,7 +159,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-05-25T11:59:39.091Z",
+        "start_timestamp": "2022-05-25T12:05:16.889Z",
         "line": 37,
         "name": "Scenario 2 Of Test Feature",
         "description": "",
@@ -181,7 +181,7 @@
           },
           {
             "result": {
-              "duration": 18000,
+              "duration": 19000,
               "status": "passed"
             },
             "line": 33,
@@ -193,7 +193,7 @@
           },
           {
             "result": {
-              "duration": 17000,
+              "duration": 19000,
               "status": "passed"
             },
             "line": 34,
