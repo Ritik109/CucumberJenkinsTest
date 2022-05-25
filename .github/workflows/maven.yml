@@ -7,9 +7,13 @@ on:
   workflow_dispatch:
     inputs:
       environment:
+        type: choice
         description: 'Define env name'     
         required: true
         default: 'test'
+        options:
+          - acc
+          - tst
 
 jobs:
   build:
@@ -25,4 +29,4 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Build with Maven
-      run: mvn -B test --file pom.xml
+      run: mvn install --file pom.xml
